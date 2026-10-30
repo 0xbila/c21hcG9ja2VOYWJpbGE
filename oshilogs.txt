@@ -12,51 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nabila =====
-[1]Nabila      |07:57:28 | 29-10-2026| login OK @nabilawidiani | score=2280 rank=3501
-[1]Nabila      |07:57:28 | 29-10-2026| serverTime=2026-10-29T07:57:28.000Z local=2026-10-29T07:57:28.583Z
+[1]Nabila      |07:59:58 | 30-10-2026| login OK @nabilawidiani | score=2380 rank=3357
+[1]Nabila      |07:59:58 | 30-10-2026| serverTime=2026-10-30T07:59:58.000Z local=2026-10-30T07:59:58.989Z
 --> [1]Nabila menjalankan: Claim Daily
-[1]Nabila      |07:57:29 | 29-10-2026| daily: OK +10 poin score=2290
---> [1]Nabila menjalankan: Auto All Tasks (9 pending)
-[1]Nabila      |07:57:31 | 29-10-2026| [1/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/nabilawidiani/status/2115714239285382362
-[1]Nabila      |07:57:31 | 29-10-2026| delay 10s...
-[1]Nabila      |07:57:43 | 29-10-2026| [2/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/nabilawidiani/status/2115714272074498567
-[1]Nabila      |07:57:43 | 29-10-2026| delay 10s...
-[1]Nabila      |07:57:55 | 29-10-2026| [3/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/nabilawidiani/status/2115714423256198519
-[1]Nabila      |07:57:55 | 29-10-2026| delay 10s...
-[1]Nabila      |07:58:07 | 29-10-2026| [4/9] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/nabilawidiani/status/2115714372503014698
-[1]Nabila      |07:58:07 | 29-10-2026| delay 10s...
-[1]Nabila      |07:58:19 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/nabilawidiani/status/2115714439046233840
-[1]Nabila      |07:58:19 | 29-10-2026| delay 10s...
-[1]Nabila      |07:58:31 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/nabilawidiani/status/2115714484995033608
-[1]Nabila      |07:58:31 | 29-10-2026| delay 10s...
-[1]Nabila      |07:58:43 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/nabilawidiani/status/2115714657282558894
-[1]Nabila      |07:58:43 | 29-10-2026| delay 10s...
-[1]Nabila      |07:58:56 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944 | proof=https://x.com/nabilawidiani/status/2115714389760396671
-[1]Nabila      |07:58:56 | 29-10-2026| delay 10s...
-[1]Nabila      |07:59:08 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211560531464944
-[1]Nabila      |07:59:08 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nabila      |07:59:09 | 29-10-2026| [1/1] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5c713c28-c0ea-4021-80b8-c708a35357ea","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115605314649444 | proof=https://x.com/nabilawidiani/status/2115714731843012878
+[1]Nabila      |08:00:00 | 30-10-2026| daily: OK +10 poin score=2390
+--> [1]Nabila menjalankan: Auto All Tasks (7 pending)
+[1]Nabila      |08:00:02 | 30-10-2026| [1/7] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nabilawidiani/status/2116077390656141882
+[1]Nabila      |08:00:02 | 30-10-2026| delay 10s...
+[1]Nabila      |08:00:14 | 30-10-2026| [2/7] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nabilawidiani/status/2116077134904514708
+[1]Nabila      |08:00:14 | 30-10-2026| delay 10s...
+[1]Nabila      |08:00:27 | 30-10-2026| [3/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nabilawidiani/status/2116077476108765882
+[1]Nabila      |08:00:27 | 30-10-2026| delay 10s...
+[1]Nabila      |08:00:39 | 30-10-2026| [4/7] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nabilawidiani/status/2116077243184946738
+[1]Nabila      |08:00:39 | 30-10-2026| delay 10s...
+[1]Nabila      |08:00:51 | 30-10-2026| [5/7] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nabilawidiani/status/2116077386502077750
+[1]Nabila      |08:00:51 | 30-10-2026| delay 10s...
+[1]Nabila      |08:01:03 | 30-10-2026| [6/7] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nabilawidiani/status/2116077319006919476
+[1]Nabila      |08:01:03 | 30-10-2026| delay 10s...
+[1]Nabila      |08:01:16 | 30-10-2026| [7/7] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Nabila      |08:01:16 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nabila      |08:01:17 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/nabilawidiani/status/2116077473748853936
 --> [1]Nabila menjalankan: Watch Anime
-[1]Nabila      |07:59:10 | 29-10-2026| watch: semua video sudah completed
+[1]Nabila      |08:01:18 | 30-10-2026| watch: semua video sudah completed
 --> [1]Nabila menjalankan: Read Article
-[1]Nabila      |07:59:12 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Nabila      |07:59:12 | 29-10-2026| mint eligibility: {"userId":"1663685257810542592","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nabilawidiani","status":"submitted","revision":"7d9f2b31-3709-4f3a-b12e-645462e6
-[1]Nabila      |07:59:12 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Nabila      |08:01:19 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Nabila      |08:01:20 | 30-10-2026| mint eligibility: {"userId":"1663685257810542592","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nabilawidiani","status":"submitted","revision":"7d9f2b31-3709-4f3a-b12e-645462e6
+[1]Nabila      |08:01:20 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Nabila menjalankan: Quiz Anime
 --> [1]Nabila menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nabila      |07:59:15 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nabila      |07:59:15 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nabila      |07:59:15 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nabila      |07:59:15 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nabila      |08:01:22 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nabila      |08:01:23 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nabila      |08:01:23 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nabila      |08:01:23 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nabila menjalankan: Claim Missions
-[1]Nabila      |07:59:16 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nabila      |07:59:16 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nabila      |07:59:16 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nabila      |08:01:24 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nabila      |08:01:24 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nabila      |08:01:24 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nabila menjalankan: Check Eligibility
 
 --- eligibility [1]Nabila ---
-  @nabilawidiani | score=2280 rank=3501
-  tasks    [######--------------] 4/13
+  @nabilawidiani | score=2380 rank=3357
+  tasks    [#######-------------] 4/11
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -67,14 +63,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nabila menjalankan: Read Manga
-[1]Nabila      |07:59:19 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Nabila      |08:01:27 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nabila menjalankan: Get Gift
-[1]Nabila      |07:59:20 | 29-10-2026| gift: 0/5 belum diterima
+[1]Nabila      |08:01:28 | 30-10-2026| gift: 1/6 belum diterima
+[1]Nabila      |08:01:29 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Nabila menjalankan: Setup Profile
-[1]Nabila      |07:59:21 | 29-10-2026| profile: bio="https://x.com/nabilawidiani" fav=kagura rewardAt=1791684456
-[1]Nabila      |07:59:21 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Nabila      |08:01:32 | 30-10-2026| profile: bio="https://x.com/nabilawidiani" fav=kagura rewardAt=1791684456
+[1]Nabila      |08:01:32 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nabila menjalankan: Bind Wallet
-[1]Nabila      |07:59:21 | 29-10-2026| wallet: sudah terikat AkttAL6m2H... (solana)
+[1]Nabila      |08:01:32 | 30-10-2026| wallet: sudah terikat AkttAL6m2H... (solana)
 
 == RINGKASAN ==
-- Nabila: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Nabila: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
